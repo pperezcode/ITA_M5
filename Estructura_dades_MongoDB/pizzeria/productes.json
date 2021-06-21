@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "60cf6fa882e350c2d455ac54"
+  },
+  "tipus_producte": "pizza",
+  "nom": "Hawaiana",
+  "descripcio": "Pizza amb pernil dolç i pinya",
+  "imatge": "",
+  "preu": 12.5,
+  "categoria_pizza": "Basic"
+}]

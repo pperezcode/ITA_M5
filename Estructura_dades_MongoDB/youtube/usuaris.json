@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "60cf7ac082e350c2d455ac58"
+  },
+  "email": "elmeuemail@email.com",
+  "password": "tyiwejj5%",
+  "nom_usuari": "usuari_youtube",
+  "data_naixement": {
+    "$date": "1998-05-01T22:00:00Z"
+  },
+  "sexe": "femeni",
+  "pais": "Espanya",
+  "codi_postal": "08018",
+  "videos": {
+    "video_id": {
+      "$oid": "60cf7b7482e350c2d455ac59"
+    },
+    "titol": "Tutorial video",
+    "descripcio": "T'ensenyo a pujar un video",
+    "grandaria": "2",
+    "nom_arxiu": "tutorial_video.avi",
+    "durada": "45:23",
+    "thumbnail": "",
+    "nombre_reproduccions": 15,
+    "numero_likes": 10,
+    "numero_dislikes": 3,
+    "estat": "public",
+    "tags": {
+      "tag_id": {
+        "$oid": "60cf7c6b82e350c2d455ac5b"
+      },
+      "tag_nom": "Educatiu"
+    },
+    "usuari_publica": {
+      "$oid": "60cf7ac082e350c2d455ac58"
+    },
+    "hora_publicacio": {
+      "$timestamp": {
+        "t": 0,
+        "i": 0
+      }
+    },
+    "commentaris": {
+      "quant_likes": 5,
+      "quant_dislikes": 1,
+      "comentari_text": "Molt bé"
+    }
+  },
+  "canals_subscrits": [
+    {
+      "$oid": "60d0dcc573c7b2e9a864ba2f"
+    },
+    {
+      "$oid": "60d0dccc73c7b2e9a864ba30"
+    }
+  ]
+}]

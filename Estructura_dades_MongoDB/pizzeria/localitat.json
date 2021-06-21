@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "60cf6e5f82e350c2d455ac50"
+  },
+  "nom": "Barcelona",
+  "provincia": {
+    "$oid": "60d0d78e73c7b2e9a864ba0d"
+  }
+},{
+  "_id": {
+    "$oid": "60cf6e95a9f49d3388cd1c03"
+  },
+  "nom": "L'Hospitalet de Llobregat",
+  "provincia": {
+    "$oid": "60d0d78e73c7b2e9a864ba0d"
+  }
+},{
+  "_id": {
+    "$oid": "60cf6ea2a9f49d3388cd1c04"
+  },
+  "nom": "Cornellà",
+  "provincia": {
+    "$oid": "60d0d78e73c7b2e9a864ba0d"
+  }
+},{
+  "_id": {
+    "$oid": "60cf6eaba9f49d3388cd1c05"
+  },
+  "nom": "Esplugues de Llobregat",
+  "provincia": {
+    "$oid": "60d0d78e73c7b2e9a864ba0d"
+  }
+},{
+  "_id": {
+    "$oid": "60cf6eb4a9f49d3388cd1c06"
+  },
+  "nom": "El Prat de Llobregat",
+  "provincia": {
+    "$oid": "60d0d78e73c7b2e9a864ba0d"
+  }
+}]

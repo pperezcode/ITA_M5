@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "60cf70ed82e350c2d455ac56"
+  },
+  "nom_botiga": "Centre",
+  "adreça": {
+    "carrer": "Ronda Sant Pere",
+    "num": "154",
+    "pis": "Baixos",
+    "porta": "",
+    "codi_postal": "08018",
+    "localitat": "Barcelona",
+    "provincia": "Barcelona"
+  },
+  "telefon": "935687458",
+  "comandes": [
+    {
+      "$oid": "60cf6f0982e350c2d455ac52"
+    },
+    {
+      "$oid": "60d0daefda811907a8c5e26b"
+    }
+  ],
+  "empleats_id": [
+    {
+      "$oid": "60d0dc4673c7b2e9a864ba2c"
+    },
+    {
+      "$oid": "60d0dc4e73c7b2e9a864ba2d"
+    },
+    {
+      "$oid": "60d0dc5373c7b2e9a864ba2e"
+    }
+  ]
+}]

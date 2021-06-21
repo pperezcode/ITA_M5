@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60cf640482e350c2d455ac48"
+  },
+  "marca": {
+    "marca_id": {
+      "$oid": "60d0ca3273c7b2e9a864ba06"
+    },
+    "nom": "Rayban",
+    "proveidor": {
+      "$oid": "60d0ca4073c7b2e9a864ba07"
+    }
+  },
+  "graduacio_vidreD": "0.25",
+  "graduacio_vidreE": "0",
+  "tipus_muntura": "Flotant",
+  "color_muntura": "negre",
+  "color_vidreD": "transparent",
+  "color_vidreE": "transparent",
+  "preu": 150,
+  "empleat_venda": {
+    "empleat_venda_id:": {
+      "$oid": "60d0cb2373c7b2e9a864ba0a"
+    },
+    "nom": "Jaume",
+    "cognom": "Rivera Gomez",
+    "dni": "458745845G"
+  }
+}]

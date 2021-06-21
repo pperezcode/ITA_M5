@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60cf6c2c82e350c2d455ac4e"
+  },
+  "nom": "Maira",
+  "adreca": {
+    "carrer": "Gran de Gracia",
+    "num": "18",
+    "pis": "4",
+    "porta": "3",
+    "codi_postal": "08017",
+    "localitat": {
+      "$oid": "60d0d75d73c7b2e9a864ba0b"
+    },
+    "provincia": {
+      "$oid": "60d0d76673c7b2e9a864ba0c"
+    }
+  },
+  "telefon": "657458789",
+  "cognoms": "Camps Pi"
+}]

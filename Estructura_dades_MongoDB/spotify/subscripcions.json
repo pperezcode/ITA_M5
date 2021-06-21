@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "60cf806182e350c2d455ac65"
+  },
+  "data_inici": {
+    "$date": "2005-01-02T23:00:00Z"
+  },
+  "data_renovacio": {
+    "$date": "2006-01-02T23:00:00Z"
+  },
+  "forma_pagament": "credit",
+  "forma_pagament_id": {
+    "$oid": "60cf80cf82e350c2d455ac66"
+  }
+}]

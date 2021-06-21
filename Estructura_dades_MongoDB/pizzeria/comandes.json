@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "60cf6f0982e350c2d455ac52"
+  },
+  "client": {
+    "$oid": "60cf6c2c82e350c2d455ac4e"
+  },
+  "data_hora": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "tipus_comanda": "Domicili",
+  "preu_total": 34.5,
+  "data_hora_lliurament": {
+    "$date": "2021-06-20T22:00:00Z"
+  },
+  "empleat_repartidor": {
+    "$oid": "60cf716a82e350c2d455ac57"
+  },
+  "pizzes": {
+    "pizzes_id": [
+      {
+        "$oid": "60d0d99f73c7b2e9a864ba18"
+      },
+      {
+        "$oid": "60d0d9a673c7b2e9a864ba19"
+      }
+    ],
+    "quantitat_pizzes": 2
+  },
+  "hamburgueses": {
+    "hamburgueses_id": [
+      ""
+    ],
+    "quantitat_hamburgueses": 0
+  },
+  "begudes": {
+    "begudes_id": [
+      {
+        "$oid": "60d0da2b73c7b2e9a864ba1a"
+      },
+      {
+        "$oid": "60d0da3173c7b2e9a864ba1b"
+      },
+      {
+        "$oid": "60d0da3773c7b2e9a864ba1c"
+      },
+      {
+        "$oid": "60d0da3c73c7b2e9a864ba1d"
+      }
+    ],
+    "quantitat_begudes": 4
+  },
+  "botiga_id": {
+    "$oid": "60d0da8773c7b2e9a864ba1e"
+  }
+},{
+  "_id": {
+    "$oid": "60d0daefda811907a8c5e26b"
+  },
+  "client": {
+    "$oid": "60cf6c2c82e350c2d455ac4e"
+  },
+  "data_hora": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "tipus_comanda": "Recollir",
+  "preu_total": 54.5,
+  "data_hora_lliurament": null,
+  "empleat_repartidor": null,
+  "pizzes": {
+    "pizzes_id": [
+      {
+        "$oid": "60d0d99f73c342e9a864ba18"
+      },
+      {
+        "$oid": "60d0d9a673c756e9a864ba19"
+      },
+      {
+        "$oid": "60d0db0073c7b2e9a864ba1f"
+      }
+    ],
+    "quantitat_pizzes": 3
+  },
+  "hamburgueses": {
+    "hamburgueses_id": [
+      {
+        "$oid": "60d0db0e73c7b2e9a864ba20"
+      }
+    ],
+    "quantitat_hamburgueses": 1
+  },
+  "begudes": {
+    "begudes_id": [
+      {
+        "$oid": "60d0da2b73c7b2e9a864ba1a"
+      },
+      {
+        "$oid": "60d0da3173c7b2e9a864ba1b"
+      },
+      {
+        "$oid": "60d0da3773c7b2e9a864ba1c"
+      },
+      {
+        "$oid": "60d0da3c73c7b2e9a864ba1d"
+      }
+    ],
+    "quantitat_begudes": 4
+  },
+  "botiga_id": {
+    "$oid": "60d0da8773c7b2e9a864ba1e"
+  }
+}]

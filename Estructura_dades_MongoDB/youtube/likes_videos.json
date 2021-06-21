@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "60cf7e1082e350c2d455ac5e"
+  },
+  "usuari_id": {
+    "$oid": "60cf7e2382e350c2d455ac5f"
+  },
+  "video_id": {
+    "$oid": "60cf7e3382e350c2d455ac60"
+  },
+  "like": "1",
+  "dislike": "0",
+  "data": {
+    "$date": "2021-12-02T23:00:00Z"
+  }
+}]

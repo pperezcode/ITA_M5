@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60cf6ec082e350c2d455ac51"
+  },
+  "nom": "Barcelona"
+},{
+  "_id": {
+    "$oid": "60cf6ed6a9f49d3388cd1c07"
+  },
+  "nom": "Girona"
+},{
+  "_id": {
+    "$oid": "60cf6ee3a9f49d3388cd1c08"
+  },
+  "nom": "Tarragona"
+},{
+  "_id": {
+    "$oid": "60cf6eeaa9f49d3388cd1c09"
+  },
+  "nom": "Lleida"
+}]

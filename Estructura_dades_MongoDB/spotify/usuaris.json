@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "60cf7fc982e350c2d455ac64"
+  },
+  "tipus_usuari": "premium",
+  "email": "elmeuemail@email.com",
+  "password": "125487j",
+  "nom_usuari": "myspotify89",
+  "data_naixement": {
+    "$date": "1999-01-07T23:00:00Z"
+  },
+  "sexe": "masculi",
+  "pais": "Espanya",
+  "codi_postal": "08023",
+  "playlists": [
+    {
+      "$oid": "60d0de4073c7b2e9a864ba34"
+    },
+    {
+      "$oid": "60d0de4773c7b2e9a864ba35"
+    }
+  ]
+}]

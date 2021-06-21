@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "60ce05bf49a316ac78cd0d15"
+  },
+  "nom": "Optica Universitaria",
+  "adreca": {
+    "carrer": "Av. Diagonal",
+    "numero": "637",
+    "pis": "Baixos",
+    "porta": "1",
+    "ciutat": "Barcelona",
+    "codi_postal": "08028",
+    "pais": "Espanya"
+  },
+  "telefon": "934905070",
+  "fax": "null",
+  "nif": "B1564587",
+  "marques": [
+    {
+      "$oid": "60d0bd96780fa230fd2ed9c6"
+    },
+    {
+      "$oid": "60d0bd9d780fa230fd2ed9c7"
+    }
+  ]
+}]

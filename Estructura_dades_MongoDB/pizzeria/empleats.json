@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60cf716a82e350c2d455ac57"
+  },
+  "botiga": "Centre",
+  "nom": "Jaume",
+  "cognom": "Peris",
+  "nif": "458758986N",
+  "telefon": "658968587",
+  "tipus_empleat": "repartidor"
+},{
+  "_id": {
+    "$oid": "60cf71c4a9f49d3388cd1c0e"
+  },
+  "botiga": "Centre",
+  "nom": "Cris",
+  "cognom": "Palacios",
+  "nif": "45875745Z",
+  "telefon": "687123587",
+  "tipus_empleat": "cuiner"
+}]

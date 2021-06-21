@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "60cf846982e350c2d455ac75"
+  },
+  "titol": "La primera cançó",
+  "durada": "2:21",
+  "nombre_reproduccions": 21,
+  "album": {
+    "$oid": "60cf84bf82e350c2d455ac76"
+  }
+}]

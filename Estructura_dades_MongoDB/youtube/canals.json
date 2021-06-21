@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "60cf7ced82e350c2d455ac5c"
+  },
+  "usuari_crea_canal": {
+    "$oid": "60cf7ac082e350c2d455ac58"
+  },
+  "nom_canal": "El meu canal formatiu",
+  "data_creacio": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "descripcio": "Aquí t'ensenyaré programes informàtics",
+  "Usuaris_subscriptors": [
+    {
+      "$oid": "60d0dcd773c7b2e9a864ba31"
+    },
+    {
+      "$oid": "60d0dcdd73c7b2e9a864ba32"
+    }
+  ]
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "60cf838382e350c2d455ac73"
+  },
+  "titol": "rock",
+  "nombre_cancons": 52,
+  "data_creacio": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "estat": "activa",
+  "data_estat_eliminada": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "cancons": {
+    "usuari_afegeix": {
+      "$oid": "60cf843082e350c2d455ac74"
+    },
+    "data_afegida": {
+      "$timestamp": {
+        "t": 0,
+        "i": 0
+      }
+    }
+  },
+  "usuari_id": {
+    "$oid": "60d0de2473c7b2e9a864ba33"
+  }
+}]

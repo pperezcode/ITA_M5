@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60cf812082e350c2d455ac69"
+  },
+  "forma_pagament_id": {
+    "$oid": "60cf80cf82e350c2d455ac66"
+  },
+  "numero_targeta": "1254636987547896",
+  "mes": "12",
+  "any": "25",
+  "ccv": "587",
+  "pagaments": {
+    "pagament_id": {
+      "$oid": "60cf818082e350c2d455ac6b"
+    },
+    "data": {
+      "$date": "2021-01-05T23:00:00Z"
+    },
+    "total": 9.99
+  }
+}]

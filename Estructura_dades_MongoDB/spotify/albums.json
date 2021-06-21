@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60cf84ce82e350c2d455ac77"
+  },
+  "artista": {
+    "nom": "El cantant",
+    "imatge": "",
+    "estil": "rock"
+  },
+  "cancons": [
+    {
+      "$oid": "60d0dea573c7b2e9a864ba37"
+    },
+    {
+      "$oid": "60d0deaa73c7b2e9a864ba38"
+    }
+  ],
+  "any_publicacio": "2020",
+  "imatge_portada": "",
+  "titol": "rock90"
+}]

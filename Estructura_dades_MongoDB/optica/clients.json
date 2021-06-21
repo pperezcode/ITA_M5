@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "60cf6afa82e350c2d455ac4d"
+  },
+  "nom": "Joan",
+  "cognom": "Perez",
+  "adreca": {
+    "carrer": "Barcelona",
+    "numero": "114",
+    "pis": "3",
+    "porta": "2",
+    "ciutat": "Barcelona",
+    "codi_postal": "08001",
+    "pais": "Espanya"
+  },
+  "telefon": "658258258",
+  "email": "joanperez@email.com",
+  "data_registre": {
+    "$date": "2021-01-17T23:00:00Z"
+  },
+  "client_recomana": "null"
+},{
+  "_id": {
+    "$oid": "60d0ca81da811907a8c5e26a"
+  },
+  "nom": "Maria",
+  "cognom": "Ridaura",
+  "adreca": {
+    "carrer": "Barcelona",
+    "numero": "114",
+    "pis": "3",
+    "porta": "2",
+    "ciutat": "Barcelona",
+    "codi_postal": "08001",
+    "pais": "Espanya"
+  },
+  "telefon": "658295784",
+  "email": "mariarz@email.com",
+  "data_registre": {
+    "$date": "2021-01-17T23:00:00Z"
+  },
+  "client_recomana": {
+    "$oid": "60cf6afa82e350c2d455ac4d"
+  }
+}]

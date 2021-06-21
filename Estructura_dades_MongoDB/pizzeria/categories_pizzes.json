@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "60cf707c82e350c2d455ac55"
+  },
+  "nom_categoria": "Basic",
+  "pizzes_id": [
+    {
+      "$oid": "60d0db9873c7b2e9a864ba21"
+    },
+    {
+      "$oid": "60d0db9d73c7b2e9a864ba22"
+    },
+    {
+      "$oid": "60d0dba273c7b2e9a864ba23"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60cf7093a9f49d3388cd1c0a"
+  },
+  "nom_categoria": "Deluxe",
+  "pizzes_id": [
+    {
+      "$oid": "60d0dbb373c7b2e9a864ba24"
+    },
+    {
+      "$oid": "60d0dbb873c7b2e9a864ba25"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60cf7099a9f49d3388cd1c0b"
+  },
+  "nom_categoria": "Estiu",
+  "pizzes_id": [
+    {
+      "$oid": "60d0dbc673c7b2e9a864ba26"
+    },
+    {
+      "$oid": "60d0dbcc73c7b2e9a864ba27"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60cf70a3a9f49d3388cd1c0c"
+  },
+  "nom_categoria": "Familiar",
+  "pizzes_id": [
+    {
+      "$oid": "60d0dbed73c7b2e9a864ba28"
+    },
+    {
+      "$oid": "60d0dbf273c7b2e9a864ba29"
+    },
+    {
+      "$oid": "60d0dbf873c7b2e9a864ba2a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60cf70aba9f49d3388cd1c0d"
+  },
+  "nom_categoria": "Nadalenca",
+  "pizzes_id": [
+    {
+      "$oid": "60d0dc0873c7b2e9a864ba2b"
+    }
+  ]
+}]

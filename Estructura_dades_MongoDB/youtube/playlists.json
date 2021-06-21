@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "60cf7e6782e350c2d455ac61"
+  },
+  "nom": "La meva colecció",
+  "data": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "estat": "pública",
+  "comentaris": {
+    "comentari_id": {
+      "$oid": "60cf7e9782e350c2d455ac62"
+    },
+    "usuari_id": {
+      "$oid": "60cf7edc82e350c2d455ac63"
+    },
+    "text": "està genial",
+    "data_creacio": {
+      "$date": "2021-04-04T22:00:00Z"
+    },
+    "like": true,
+    "dislike": false
+  }
+}]
